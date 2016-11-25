@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Privalia</string>
+    <string name="textview_hint">Write movie here</string>
+</resources>
